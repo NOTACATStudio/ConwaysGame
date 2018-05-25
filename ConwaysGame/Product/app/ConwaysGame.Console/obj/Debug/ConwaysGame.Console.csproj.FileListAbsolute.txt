@@ -1,0 +1,6 @@
+C:\Projects\ConwaysGame\ConwaysGame\ConwaysGame\Product\app\ConwaysGame.Console\bin\Debug\ConwaysGame.Console.exe.config
+C:\Projects\ConwaysGame\ConwaysGame\ConwaysGame\Product\app\ConwaysGame.Console\obj\Debug\ConwaysGame.Console.csprojResolveAssemblyReference.cache
+C:\Projects\ConwaysGame\ConwaysGame\ConwaysGame\Product\app\ConwaysGame.Console\bin\Debug\ConwaysGame.Console.exe
+C:\Projects\ConwaysGame\ConwaysGame\ConwaysGame\Product\app\ConwaysGame.Console\bin\Debug\ConwaysGame.Console.pdb
+C:\Projects\ConwaysGame\ConwaysGame\ConwaysGame\Product\app\ConwaysGame.Console\obj\Debug\ConwaysGame.Console.exe
+C:\Projects\ConwaysGame\ConwaysGame\ConwaysGame\Product\app\ConwaysGame.Console\obj\Debug\ConwaysGame.Console.pdb
